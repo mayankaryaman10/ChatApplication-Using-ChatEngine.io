@@ -11,7 +11,6 @@ Read Receipts: See when your messages have been read by the recipients.
 Scalability: Designed to handle a large number of users and messages effectively.
 
 
-
 TECH STACK
 Backend: Node.js, ChatEngine.io
 Frontend: React.js
